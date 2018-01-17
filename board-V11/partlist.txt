@@ -1,0 +1,28 @@
+Partlist
+
+Exported from v11.sch at 15.01.2018 16:53
+
+EAGLE Version 8.4.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                 Device                Package       Library                    Sheet
+
+C1       100u                  CPOL-EUE2,5-6E        E2,5-6E       resistor                   1
+C2       10u                   C-EUC1206             C1206         resistor                   1
+D1       3.3 V                 ZENER-DIODEDO35Z10    DO35Z10       diode                      1
+ESP8266                        M04X2                 2X4           SparkFun-Connectors        1
+IC1      LD117AS33TR           LD117AS33TR           SOT223        v-reg                      1
+J1                             M04LONGPADS           1X04_LONGPADS SparkFun-Connectors        1
+JP1                            JP2E                  JP2           jumper                     1
+LED1                           LEDSML1206            SML1206       led                        1
+LED2                           LEDSML1206            SML1206       led                        1
+LED3                           LEDSML1206            SML1206       led                        1
+LED4                           LEDSML1206            SML1206       led                        1
+R1       10k                   R-EU_R1206            R1206         resistor                   1
+R2       1k                    R-EU_R1206            R1206         resistor                   1
+R4       100                   R-EU_R1206            R1206         resistor                   1
+R5       100                   R-EU_R1206            R1206         resistor                   1
+R6       1k                    R-EU_R1206            R1206         resistor                   1
+R7       1k                    R-EU_R1206            R1206         resistor                   1
+RST      SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH   SparkFun-Electromechanical 1
